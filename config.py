@@ -9,7 +9,6 @@ OWNER_NAME = "HaGiaBao"   # <--- ĐỔI thành tên của bạn
 
 # --- Cấu hình gửi email thông báo ---
 EMAIL_SENDER   = "sukamona3@gmail.com"       # <--- Email của bạn (người gửi)
-EMAIL_PASSWORD = "ohmu rxkm xpis kzbv"          # <--- Mật khẩu ứng dụng Gmail (App Password)
 EMAIL_RECEIVER = "sukamona3@gmail.com"       # <--- Email nhận thông báo (có thể giống người gửi)
 
 # --- Ngưỡng tin cậy của LBPH (thấp = chắc hơn) ---
